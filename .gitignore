@@ -21,3 +21,11 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+chat-frontend/.idea
+chat-frontend/.DS_Store
+
+chat-backend/.idea
+chat-backend/.DS_Store
+
+.DS_Store
